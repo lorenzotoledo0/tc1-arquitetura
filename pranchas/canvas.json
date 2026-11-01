@@ -1,0 +1,52 @@
+{
+  "v": 3,
+  "attachments": {},
+  "boards": {
+    "Prancha01.dc.html": {
+      "h": 1000,
+      "title": "Prancha 01 – Tema e Local",
+      "w": 1414,
+      "x": 0,
+      "y": 0
+    },
+    "Prancha02.dc.html": {
+      "h": 1000,
+      "title": "Prancha 02 – Estudos de Caso e Partido",
+      "w": 1414,
+      "x": 1494,
+      "y": 0
+    },
+    "Prancha03.dc.html": {
+      "h": 1000,
+      "title": "Prancha 03 – Projeto",
+      "w": 1414,
+      "x": 2988,
+      "y": 0
+    }
+  },
+  "createdOnFiles": {
+    "at": "2026-10-22T00:30:00Z",
+    "v": 1
+  },
+  "designSystems": [],
+  "launch": {
+    "view": "canvas"
+  },
+  "notes": {
+    "titulo": {
+      "kind": "title1",
+      "maxW": 4402,
+      "text": "TC1 · Habitação de Interesse Social · Pranchas A1",
+      "w": 240,
+      "x": 0,
+      "y": -280
+    }
+  },
+  "order": [
+    "Prancha01.dc.html",
+    "Prancha02.dc.html",
+    "Prancha03.dc.html"
+  ],
+  "pages": [],
+  "title": "Pranchas TC1 - Layout"
+}
